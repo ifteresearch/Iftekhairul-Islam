@@ -1,4 +1,4 @@
-# Iftekhairul-Islam, PhD      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [CV](https://iftekhairul-islam.github.io/CV/)
+# Iftekhairul-Islam, PhD      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[CV](https://iftekhairul-islam.github.io/CV/)
 Political Economist, Data Scientist, Spatial and RS Data Analyst
                                                                                                                                                         
 
