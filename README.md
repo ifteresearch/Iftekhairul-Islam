@@ -1,5 +1,8 @@
 # Iftekhairul-Islam, PhD                                                 
 Political Economist, Data Scientist, Spatial and RS Data Analyst
+                                                                                                                                                        
+
+
 ## Twitter Data Analysis
 This is a demonstration of scraping Twitter data, and how to do networks and sentiment analysis
 ## 2016 Election REsult Analysis
