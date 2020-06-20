@@ -12,6 +12,7 @@ This a precinct level election result anlysis focusing on racial and demographic
 This analysis shows how Covid-19 situation put the minority workers more in vulnerable position
 ## The Curse of Inaccessibility
 This analysis finds a negative relationship between productivity of workers and the distance of their residence from the nearest MSA and highway
+## [The Blessings of Inaccessibility](https://www.linkedin.com/pulse/blessings-inaccessibility-iftekhairul-islam/)
 ## A NightTimeLight Satellite Image Analysis
 Here, I have analyesd NASA VIIRS NightTimeLIght satellite images and showed how the economic development in Bangladesh has been non-honmogeneous around the country
 ## Impact of Local Government Expenditure on Education
