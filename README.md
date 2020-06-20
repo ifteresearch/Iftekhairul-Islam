@@ -1,4 +1,5 @@
-# Iftekhairul-Islam
+# Iftekhairul-Islam, PhD(U+000A)
+Pplitical Economist, Data Scientist
 ## _Profile_
 ### **Geo-Data**
 LIst:
