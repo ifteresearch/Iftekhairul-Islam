@@ -2,6 +2,7 @@
 **Political Economist, Data Scientist, Spatial and RS Data Analyst**
                                                                                                                                           
 ## [Impact of AI and ML algorithms on Employment: A State-level Analysis](https://arxiv.org/abs/2001.02783)
+In this analysis I have used unsupervised learning approach (K-medoid Clustering) to detect how the prospect of some mid-level jobs have been declining for the last several years, and what would be the state-level exposure in terms of unemployment.
 
 ## [Twitter Data Analysis](https://www.linkedin.com/in/iftekhairul-islam-20695332/)
 This is a demonstration of scraping Twitter data, and how to do networks and sentiment analysis
@@ -13,6 +14,7 @@ This analysis shows how Covid-19 situation put the minority workers more in vuln
 ## The Curse of Inaccessibility
 This analysis finds a negative relationship between productivity of workers and the distance of their residence from the nearest MSA and highway
 ## [The Blessings of Inaccessibility](https://www.linkedin.com/pulse/blessings-inaccessibility-iftekhairul-islam/)
+In this study I found how the small cities and MSAs are convenienly safe from the impact of Covid-19, both in terms of number of cases and economic perpective.
 ## A NightTimeLight Satellite Image Analysis
 Here, I have analyesd NASA VIIRS NightTimeLIght satellite images and showed how the economic development in Bangladesh has been non-honmogeneous around the country
 ## Impact of Local Government Expenditure on Education
