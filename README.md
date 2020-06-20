@@ -5,7 +5,7 @@
 ## [Twitter Data Analysis](https://www.linkedin.com/in/iftekhairul-islam-20695332/)
 This is a demonstration of scraping Twitter data, and how to do networks and sentiment analysis
 
-## 2016 Election Rsult Analysis
+## 2016 Election Result Analysis
 This a precinct level election result anlysis focusing on racial and demographics impact on voting choice
 ## Racial Context of Covid-19
 This analysis shows how Covid-19 situation put the minority workers more in vulnerable position
