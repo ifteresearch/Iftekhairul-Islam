@@ -4,4 +4,4 @@
 LIst:
 - w
 - r
-### My linked https://www.linkedin.com/in/iftekhairul-islam-20695332/
+### My linkedin https://www.linkedin.com/in/iftekhairul-islam-20695332/
