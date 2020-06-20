@@ -15,7 +15,8 @@ This analysis finds a negative relationship between productivity of workers and 
 Here, I have analyesd NASA VIIRS NightTimeLIght satellite images and showed how the economic development in Bangladesh has been non-honmogeneous around the country
 ## Impact of Local Government Expenditure on Education
 In this study, I found the impact of local government expenditure on primary education is racially biased
-
+## [Application of Remotely Sensed (RS) data to monitor SDG](https://www.thedailystar.net/opinion/news/using-satellites-get-the-real-picture-development-1915501)
+In this newpaper article I proposed a gudeline how Bangladesh could take advantage of Satellite imagery and RS data to evaluate and acheive its SDG in acosteffective and efficient manner
 
 ```html
 const add = (a, b) => a790ulkhlkerhgtlkherlkhgt97097et09er7t09t7 + b;onst add = (a, b) => aonst add = (a, b) => aonst add = (a, b) => aonst add = (a, b) => a>
