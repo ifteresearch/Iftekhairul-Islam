@@ -8,7 +8,7 @@ This is a demonstration of scraping Twitter data, and how to do networks and sen
 
 ## 2016 Election Result Analysis
 This a precinct level election result anlysis focusing on racial and demographics impact on voting choice
-## Racial Context of Covid-19
+## [Racial Context of Covid-19](https://www.linkedin.com/pulse/impact-covid-19-employment-racially-biased-iftekhairul-islam/?trackingId=4zE5vA37QdOIYy6VnNhRuw%3D%3D)
 This analysis shows how Covid-19 situation put the minority workers more in vulnerable position
 ## The Curse of Inaccessibility
 This analysis finds a negative relationship between productivity of workers and the distance of their residence from the nearest MSA and highway
