@@ -7,7 +7,7 @@ In this analysis I have used unsupervised learning approach (K-medoid Clustering
 ## [Twitter Data Analysis](https://www.linkedin.com/in/iftekhairul-islam-20695332/)
 This is a demonstration of scraping Twitter data, and how to do networks and sentiment analysis
 
-## 2016 Election Result Analysis
+## [2016 Election Result Analysis](https://www.arcgis.com/home/webmap/viewer.html?url=https://services2.arcgis.com/VNo0ht0YPXJoI4oE/ArcGIS/rest/services/Map1/FeatureServer&source=sd)
 This a precinct level election result anlysis focusing on racial and demographics impact on voting choice
 ## [Racial Context of Covid-19](https://www.linkedin.com/pulse/impact-covid-19-employment-racially-biased-iftekhairul-islam/?trackingId=4zE5vA37QdOIYy6VnNhRuw%3D%3D)
 This analysis shows how Covid-19 situation put the minority workers more in vulnerable position
