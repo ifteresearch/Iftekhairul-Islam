@@ -1,6 +1,7 @@
-# Iftekhairul-Islam, PhD
+# Iftekhairul-Islam, PhD                                                 
 Political Economist, Data Scientist
-## _Profile_
+## Twitter Data
+This a demonstration of scraping Twitter data, and how to do networks and sentiment analysis
 ### **Geo-Data**
 LIst:
 - w
