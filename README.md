@@ -1,10 +1,11 @@
-# Iftekhairul-Islam, PhD                                                 
+# Iftekhairul-Islam, PhD      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;### [CV](https://www.linkedin.com/in/iftekhairul-islam-20695332/)         
 Political Economist, Data Scientist, Spatial and RS Data Analyst
                                                                                                                                                         
 
 
 ## Twitter Data Analysis
 This is a demonstration of scraping Twitter data, and how to do networks and sentiment analysis
+
 ## 2016 Election REsult Analysis
 This a precinct level election result anlysis focusing on racial and demographics impact on voting choice
 ## Racial context of Covid-19
