@@ -4,6 +4,6 @@
 LIst:
 - w
 - r
- https://www.linkedin.com/in/iftekhairul-islam-20695332/
+[Linkedin](https://www.linkedin.com/in/iftekhairul-islam-20695332/)
 
 # adas
