@@ -1,6 +1,7 @@
 # Iftekhairul-Islam, PhD      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[CV](https://iftekhairul-islam.github.io/CV/)
 **Political Economist, Data Scientist, Spatial and RS Data Analyst**
                                                                                                                                           
+## [Impact of AI and ML algorithms on Employment: A State-level Analysis](https://arxiv.org/abs/2001.02783)
 
 ## [Twitter Data Analysis](https://www.linkedin.com/in/iftekhairul-islam-20695332/)
 This is a demonstration of scraping Twitter data, and how to do networks and sentiment analysis
