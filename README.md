@@ -11,7 +11,7 @@ This a precinct level election result anlysis focusing on racial and demographic
 This analysis shows how Covid-19 situation put the minority workers more in vulnerable position
 ## The curse of inaccessibility
 This analysis finds a negative relationship between productivity of workers and the distance of their residence from the nearest MSA and highway
-'<const add = (a, b) => a790ulkhlkerhgtlkherlkhgt97097et09er7t09t7 + b;>'
+`<const add = (a, b) => a790ulkhlkerhgtlkherlkhgt97097et09er7t09t7 + b;>`
 
 [Linkedin](https://www.linkedin.com/in/iftekhairul-islam-20695332/)
 
