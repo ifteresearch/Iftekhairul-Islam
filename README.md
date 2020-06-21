@@ -1,4 +1,4 @@
-# Iftekhairul-Islam, PhD      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[CV](https://iftekhairul-islam.github.io/CV/)
+# Iftekhairul Islam, PhD      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[CV](https://iftekhairul-islam.github.io/CV/)
 **Political Economist, Data Scientist, Spatial and RS Data Analyst**
                                                                                                                                           
 ## [Impact of AI and ML algorithms on Employment: A State-level Analysis](https://arxiv.org/abs/2001.02783)
