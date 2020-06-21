@@ -3,6 +3,8 @@
                                                                                                                                           
 ## [Impact of AI and ML algorithms on Employment: A State-level Analysis](https://arxiv.org/abs/2001.02783)
 In this analysis I have used unsupervised learning approach (K-medoid Clustering) to detect how the prospect of some mid-level jobs have been declining for the last several years, and what would be the state-level exposure in terms of unemployment.
+## [Application of Remotely Sensed (RS) data to monitor SDG](https://www.thedailystar.net/opinion/news/using-satellites-get-the-real-picture-development-1915501)
+In this newpaper article I proposed a gudeline how Bangladesh could take advantage of Satellite imagery and RS data to evaluate and acheive its SDG in acosteffective and efficient manner
 
 ## [Twitter Data Analysis](https://www.linkedin.com/in/iftekhairul-islam-20695332/)
 This is a demonstration of scraping Twitter data, and how to do networks and sentiment analysis
@@ -17,10 +19,9 @@ This analysis finds a negative relationship between productivity of workers and 
 In this study I found how the small cities and MSAs are convenienly safe from the impact of Covid-19, both in terms of number of cases and economic perpective.
 ## [A NightTimeLight Satellite Image Analysis](https://iftekhairul-islam.github.io/NightTimeLight/)
 Here, I have analyesd NASA VIIRS NightTimeLIght satellite images and showed how the economic development in Bangladesh has been non-honmogeneous around the country
-## Impact of Local Government Expenditure on Education
-In this study, I found the impact of local government expenditure on primary education is racially biased
-## [Application of Remotely Sensed (RS) data to monitor SDG](https://www.thedailystar.net/opinion/news/using-satellites-get-the-real-picture-development-1915501)
-In this newpaper article I proposed a gudeline how Bangladesh could take advantage of Satellite imagery and RS data to evaluate and acheive its SDG in acosteffective and efficient manner
+## Relief-optimization during Covid-19 Pandemic in Bangladesh
+Here, I would like to propose a rough guideline on how to mobiize food grains in different parts of Bangladesh taking into consideartion the existing poverty level, current and upcoming yeilds, and the density of population.
+
 
 ```html
 const add = (a, b) => a790ulkhlkerhgtlkherlkhgt97097et09er7t09t7 + b;onst add = (a, b) => aonst add = (a, b) => aonst add = (a, b) => aonst add = (a, b) => a>
