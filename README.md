@@ -19,7 +19,7 @@ This analysis finds a negative relationship between productivity of workers and 
 In this study I found how the small cities and MSAs are convenienly safe from the impact of Covid-19, both in terms of number of cases and economic perpective.
 ## [A NightTimeLight Satellite Image Analysis](https://iftekhairul-islam.github.io/NightTimeLight/)
 Here, I have analyesd NASA VIIRS NightTimeLIght satellite images and showed how the economic development in Bangladesh has been non-honmogeneous around the country
-## [Relief-optimization during Covid-19 Pandemic in Bangladesh](https://iftekhairul-islam.github.io/Relief)
+## [Relief-optimization during Covid-19 Pandemic in Bangladesh](https://iftekhairul-islam.github.io/Relief_Optimization)
 Here, I would like to propose a rough guideline on how to mobiize food grains in different parts of Bangladesh taking into consideartion the existing poverty level, current and upcoming yeilds, and the density of population.
 
 
