@@ -5,7 +5,7 @@
 In this analysis I have used unsupervised learning approach (K-medoid Clustering) to detect how the prospect of some mid-level jobs have been declining for the last several years, and what would be the state-level exposure in terms of unemployment.
 ## [Application of Remotely Sensed (RS) data to monitor SDG](https://www.thedailystar.net/opinion/news/using-satellites-get-the-real-picture-development-1915501)
 In this newpaper article I proposed a gudeline how Bangladesh could take advantage of Satellite imagery and RS data to evaluate and acheive its SDG in acosteffective and efficient manner
-## [How the voting preferences are different in Dallas and Harris counties?](https://www.linkedin.com/pulse/tale-two-counties-iftekhairul-islam/?trackingId=%2FUSDHASSQHWHsh%2FUrrMMkA%3D%3D)
+## [A tale of two counties- How the voting preferences are different in Dallas and Harris counties?](https://www.linkedin.com/pulse/tale-two-counties-iftekhairul-islam/?trackingId=%2FUSDHASSQHWHsh%2FUrrMMkA%3D%3D)
 Here, I have used areal interpolation (Kriging) to get precinct level demographics, income, racial data from the census block groups and run RandomForest algorithm to detect the most important attributes that influence voting choice in 2016 Presidential election in Dallas and Harris counties.
 
 ## [Twitter Data Analysis](https://www.linkedin.com/in/iftekhairul-islam-20695332/)
