@@ -8,15 +8,15 @@ In this newpaper article I proposed a gudeline how Bangladesh could take advanta
 ## [A tale of two counties - How the voting preferences are different in Dallas and Harris counties?](https://www.linkedin.com/pulse/tale-two-counties-iftekhairul-islam/?trackingId=%2FUSDHASSQHWHsh%2FUrrMMkA%3D%3D)
 Here, I have used areal interpolation (Kriging) to get precinct level demographics, income, racial data from the census block groups and run RandomForest algorithm to detect the most important attributes that influence voting choice in 2016 Presidential election in Dallas and Harris counties.
 
-## Twitter Data Analysis
-This is a demonstration of scraping Twitter data, and how to do networks and sentiment analysis (upcoming)
+## Twitter Data Analysis (upcoming)
+This is a demonstration of scraping Twitter data, and how to do networks and sentiment analysis 
 
 ## [2016 Election Result Analysis](https://www.arcgis.com/home/webmap/viewer.html?url=https://services2.arcgis.com/VNo0ht0YPXJoI4oE/ArcGIS/rest/services/Map1/FeatureServer&source=sd)
 This is a precinct-level election result anlysis focusing on racial and demographics impact on voting choice
 ## [Racial Context of Covid-19](https://www.linkedin.com/pulse/impact-covid-19-employment-racially-biased-iftekhairul-islam/?trackingId=4zE5vA37QdOIYy6VnNhRuw%3D%3D)
 This analysis shows how Covid-19 situation put the minority workers more in vulnerable position
-## The Curse of Inaccessibility
-This analysis finds a negative relationship between productivity of workers and the distance of their residence from the nearest MSA and highway (upcoming)
+## The Curse of Inaccessibility (upcoming)
+This analysis finds a negative relationship between productivity of workers and the distance of their residence from the nearest MSA and highway 
 ## [The Blessings of Inaccessibility](https://www.linkedin.com/pulse/blessings-inaccessibility-iftekhairul-islam/)
 In this study I found how the small cities and MSAs are convenienly safe from the impact of Covid-19, both in terms of number of cases and economic perpective.
 ## [A NightTimeLight Satellite Image Analysis](https://iftekhairul-islam.github.io/NightTimeLight/)
