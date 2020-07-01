@@ -7,7 +7,8 @@ In this analysis I have used unsupervised learning approach (K-medoid Clustering
 In this newpaper article I proposed a gudeline how Bangladesh could take advantage of Satellite imagery and RS data to evaluate and acheive its SDG in acosteffective and efficient manner
 ## [A tale of two counties - How the voting preferences are different in Dallas and Harris counties?](https://www.linkedin.com/pulse/tale-two-counties-iftekhairul-islam/?trackingId=%2FUSDHASSQHWHsh%2FUrrMMkA%3D%3D)
 Here, I have used areal interpolation (Kriging) to get precinct level demographics, income, racial data from the census block groups and run RandomForest algorithm to detect the most important attributes that influence voting choice in 2016 Presidential election in Dallas and Harris counties.
-
+## [Dhaka: An Urban Journey Towards Doom](https://medium.com/@iftekharshajib/dhaka-an-urban-journey-towards-doom-4655679192fb)
+In this Satellite Image analysis, I detect how the urbanization trajectory of Dhaka, the capital of Bangladesh, took a nose-dive in the last 20 years.
 ## Twitter Data Analysis (upcoming)
 This is a demonstration of scraping Twitter data, and how to do networks and sentiment analysis 
 
