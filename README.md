@@ -24,8 +24,8 @@ In this study I found how the small cities and MSAs are convenienly safe from th
 Here, I have analyesd NASA VIIRS NightTimeLIght satellite images and showed how the economic development in Bangladesh has been non-honmogeneous around the country
 ## [Relief-optimization during Covid-19 Pandemic in Bangladesh](https://iftekhairul-islam.github.io/Relief_Optimization/)
 Here, I would like to propose a rough guideline on how to mobiize food grains in different parts of Bangladesh taking into consideartion the existing poverty level, current and upcoming yeilds, and the density of population.
-
-
+## test 
+<div class="flourish-embed flourish-survey" data-src="visualisation/3219386" data-url="https://flo.uri.sh/visualisation/3219386/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 ```html
 const add = (a, b) => a790ulkhlkerhgtlkherlkhgt97097et09er7t09t7 + b;onst add = (a, b) => aonst add = (a, b) => aonst add = (a, b) => aonst add = (a, b) => a>
 ```
