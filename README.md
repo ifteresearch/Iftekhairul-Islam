@@ -1,10 +1,12 @@
 # Iftekhairul Islam, PhD      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[CV](https://iftekhairul-islam.github.io/CV/)
-**Political Economist, Data Scientist, Spatial and RS Data Analyst**
+**Political Economist, Data Scientist, Spatial and RS Data Analyst, Data Story Teller**
                                                                                                                                           
 ## [Impact of AI and ML algorithms on Employment: A State-level Analysis](https://arxiv.org/abs/2001.02783)
 In this analysis I have used unsupervised learning approach (K-medoid Clustering) to detect how the prospect of some mid-level jobs have been declining for the last several years, and what would be the state-level exposure in terms of unemployment.
 ## [Application of Remotely Sensed (RS) data to monitor SDG](https://www.thedailystar.net/opinion/news/using-satellites-get-the-real-picture-development-1915501)
 In this newpaper article I proposed a gudeline how Bangladesh could take advantage of Satellite imagery and RS data to evaluate and acheive its SDG in acosteffective and efficient manner
+## [Chicago Crime (Theft) Hotspots in 2018](https://rpubs.com/ifteresearch/ChicagoCrime)
+In this visualization I have used R to locate the places where most of the thefts took place in Chicago in 2018.
 ## [A tale of two counties - How the voting preferences are different in Dallas and Harris counties?](https://www.linkedin.com/pulse/tale-two-counties-iftekhairul-islam/?trackingId=%2FUSDHASSQHWHsh%2FUrrMMkA%3D%3D)
 Here, I have used areal interpolation (Kriging) to get precinct level demographics, income, racial data from the census block groups and run RandomForest algorithm to detect the most important attributes that influence voting choice in 2016 Presidential election in Dallas and Harris counties.
 ## [Data Stories- Decades of Changes Visualized in Minutes!!!](https://medium.com/@iftekharshajib/data-stories-1f08804153eb)
