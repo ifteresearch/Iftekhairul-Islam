@@ -15,7 +15,7 @@ Here, I have tried to show interactively how different social, political, and ec
 ## [Dhaka: An Urban Journey Towards Doom](https://medium.com/@iftekharshajib/dhaka-an-urban-journey-towards-doom-4655679192fb)
 In this satellite-image analysis, I detect how the urbanization trajectory of Dhaka, the capital of Bangladesh, took a nose-dive in the last 20 years.
 ## Twitter Data Analysis (upcoming)
-This is a demonstration of scraping Twitter data, and how to do networks and sentiment analysis 
+This is a demonstration of scraping Twitter data, and how to do networks and sentiment analysis  
 
 ## [2016 Election Result Analysis](https://www.arcgis.com/home/webmap/viewer.html?url=https://services2.arcgis.com/VNo0ht0YPXJoI4oE/ArcGIS/rest/services/Map1/FeatureServer&source=sd)
 This is a precinct-level election result anlysis focusing on racial and demographics impact on voting choice
