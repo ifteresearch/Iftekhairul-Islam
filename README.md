@@ -11,6 +11,7 @@ In this visualization I have used R to locate the places where most of the theft
 Here, I have used areal interpolation (Kriging) to get precinct level demographics, income, racial data from the census block groups and run RandomForest algorithm to detect the most important attributes that influence voting choice in 2016 Presidential election in Dallas and Harris counties.
 ## [Data Stories- Decades of Changes Visualized in Minutes!!!](https://medium.com/@iftekharshajib/data-stories-1f08804153eb)
 Here, I have tried to show interactively how different social, political, and economic dynamics changed course over time. I have used cutting edge data visualization techniques to make sense of variables.
+## [Chicago Crime (Thefts) Hotspots in 2018] (https://rpubs.com/ifteresearch/ChicagoCrime)
 ## [Dhaka: An Urban Journey Towards Doom](https://medium.com/@iftekharshajib/dhaka-an-urban-journey-towards-doom-4655679192fb)
 In this satellite-image analysis, I detect how the urbanization trajectory of Dhaka, the capital of Bangladesh, took a nose-dive in the last 20 years.
 ## Twitter Data Analysis (upcoming)
